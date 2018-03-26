@@ -1,0 +1,32 @@
+.img1 {
+ position: absolute;
+ max-height: 100%;
+ width: 100%;
+}
+
+.route01  {
+  font-size: 100pt;
+  font-family: 'Rubik Mono One', sans-serif;
+  left: 100px;
+  position: absolute;
+  color: white;
+  z-index: 2;
+  top: 400px;
+}
+
+.img2 {
+position: absolute;
+max-height: 100%;
+width: 100%;
+top: 960px;
+}
+
+.route02 {
+font-size: 100pt;
+font-family: 'Rubik Mono One', sans-serif;
+left: 100px;
+position: absolute;
+color: white;
+z-index: 2;
+top: 1380px;
+}

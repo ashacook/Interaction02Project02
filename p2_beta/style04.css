@@ -1,0 +1,155 @@
+#images {
+  background: black;
+
+}
+
+.img1 {
+  max-height: 490px;
+  top: 0px;
+  position: absolute;
+}
+
+.img2 {
+  max-height: 490px;
+  top: 0px;
+  left: 490px;
+  position: absolute;
+z-index: -4;
+}
+
+.img3 {
+  max-height: 490px;
+  top: 490px;
+  position: absolute;
+}
+
+.img4 {
+  max-height: 490px;
+  top: 490px;
+  left: 490px;
+  position: absolute;
+}
+
+.img5 {
+  max-height: 490px;
+  top: 980px;
+  position: absolute;
+}
+
+.img6 {
+  max-height: 490px;
+  top: 980px;
+  left: 490px;
+  position: absolute;
+}
+
+.img7 {
+  max-height: 490px;
+  top: 1470px;
+  position: absolute;
+}
+
+.img8 {
+max-height: 490px;
+top: 1470px;
+left: 490px;
+position: absolute;
+}
+
+.letter01  {
+  font-size: 250pt;
+  font-family: 'Rubik Mono One', sans-serif;
+  left: 110px;
+  position: absolute;
+  color: white;
+  z-index: 2;
+  top: 40px;
+  opacity: 0.8;
+}
+
+.letter02 {
+  font-size: 250pt;
+  font-family: 'Rubik Mono One', sans-serif;
+  position: absolute;
+  color: white;
+  z-index: 2;
+  top: 40px;
+  left: 595px;
+    opacity: 0.8;
+}
+
+.letter03 {
+  font-size: 250pt;
+  font-family: 'Rubik Mono One', sans-serif;
+  position: absolute;
+  color: white;
+  z-index: 2;
+  top: 540px;
+  left: 110px;
+    opacity: 0.8;
+}
+
+.letter04 {
+  font-size: 250pt;
+  font-family: 'Rubik Mono One', sans-serif;
+  position: absolute;
+  color: white;
+  z-index: 2;
+  top: 1030px;
+  left: 110px;
+}
+
+.letter05 {
+  font-size: 250pt;
+  font-family: 'Rubik Mono One', sans-serif;
+  position: absolute;
+  color: white;
+  z-index: 2;
+  top: 1030px;
+  left: 595px;
+    opacity: 0.8;
+}
+
+.back {
+font-size: 20pt;
+font-family: 'Rubik Mono One', sans-serif;
+letter-spacing: 5px;
+position: absolute;
+color: white;
+z-index: 2;
+top: 20px;
+left: 20px;
+}
+
+.box01 {
+  width: 490px;
+  height: 1965px;
+  background: black;
+  position: absolute;
+  z-index: 1;
+  left: 8px;
+  top: 0px;
+  opacity: 0.8;
+}
+
+.box02 {
+  width: 490px;
+  height: 980px;
+  background: black;
+  position: absolute;
+  z-index: 1;
+  left: 490px;
+  top: 980px;
+  opacity: 0.8;
+}
+
+.box03 {
+width: 490px;
+height: 490px;
+background: black;
+position: absolute;
+z-index: 1;
+left: 490px;
+top: 0;
+opacity: 0.8;
+}

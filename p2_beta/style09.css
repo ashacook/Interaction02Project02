@@ -1,0 +1,168 @@
+
+.first {
+font-size: 30pt;
+font-family: 'Rubik Mono One', sans-serif;
+position: absolute;
+top:300px;
+left: 330px;
+color:white;
+}
+
+.second {
+  font-size: 30pt;
+  font-family: 'Rubik Mono One', sans-serif;
+  position: absolute;
+  top: 400px;
+  left: 110px;
+  color:white;
+}
+
+.third {
+  font-size: 30pt;
+  font-family: 'Rubik Mono One', sans-serif;
+  position: absolute;
+  top: 500px;
+  left: 300px;
+  color:white;
+}
+
+.fourth {
+  font-size: 30pt;
+  font-family: 'Rubik Mono One', sans-serif;
+  position: absolute;
+  top: 600px;
+  left: 330px;
+  color:white;
+}
+
+.fifth {
+  font-size: 30pt;
+  font-family: 'Rubik Mono One', sans-serif;
+  position: absolute;
+  top: 700px;
+  left: 130px;
+  color:white;
+}
+
+.sixth{
+  font-size: 30pt;
+  font-family: 'Rubik Mono One', sans-serif;
+  position: absolute;
+  top: 800px;
+  left: 170px;
+  color:white;
+}
+
+.seventh {
+  font-size: 30pt;
+  font-family: 'Rubik Mono One', sans-serif;
+  position: absolute;
+  top: 900px;
+  left: 230px;
+  color:white;
+}
+
+.eigth {
+  font-size: 30pt;
+  font-family: 'Rubik Mono One', sans-serif;
+  position: absolute;
+  top: 1000px;
+  left: 300px;
+  color:white;
+}
+
+.back {
+font-size: 20pt;
+font-family: 'Rubik Mono One', sans-serif;
+letter-spacing: 5px;
+position: absolute;
+z-index: 2;
+top: 20px;
+left: 20px;
+color:white;
+}
+
+
+.img1 {
+  max-height: 490px;
+  top: 0px;
+  position: absolute;
+  z-index: -2;
+}
+
+.img2 {
+  max-height: 490px;
+  top: 0px;
+  left: 490px;
+  position: absolute;
+z-index: -2;
+}
+
+.img3 {
+  max-height: 490px;
+  top: 490px;
+  position: absolute;
+  z-index: -2;
+}
+
+.img4 {
+  max-height: 490px;
+  top: 490px;
+  left: 490px;
+  position: absolute;
+  z-index: -2;
+}
+
+.img5 {
+  max-height: 490px;
+  top: 980px;
+  position: absolute;
+  z-index: -2;
+}
+
+.img6 {
+  max-height: 490px;
+  top: 980px;
+  left: 490px;
+  position: absolute;
+  z-index: -2;
+}
+
+.img7 {
+  max-height: 490px;
+  top: 1470px;
+  position: absolute;
+  z-index: -2;
+}
+
+.img8 {
+max-height: 490px;
+top: 1470px;
+left: 490px;
+position: absolute;
+z-index: -2;
+}
+
+.box01 {
+  width: 490px;
+  height: 1960px;
+  background: black;
+  position: absolute;
+  z-index: 1;
+  left: 8px;
+  top: 0px;
+  opacity: 0.8;
+  z-index: -1;
+}
+
+.box02 {
+  width: 490px;
+  height: 1960px;
+  background: black;
+  position: absolute;
+  z-index: 1;
+  left: 490px;
+  top: 0px;
+  opacity: 0.8;
+  z-index: -1;
+}
